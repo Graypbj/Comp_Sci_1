@@ -9,7 +9,7 @@ def number(number_input):
 
 
 def get_input():
-    typed = input("Please input an object and a number, to quit type quit 0: ")
+    typed = input("Please input a plural object and a number, to quit type \"quit 0\": ")
     return typed
 
 
